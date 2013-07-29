@@ -43,7 +43,8 @@ Bundle 'tpope/vim-unimpaired.git'
 " Bundle 'godlygeek/tabular.git'
 Bundle 'ervandew/supertab.git'
 Bundle 'scrooloose/syntastic.git'
-Bundle 'msanders/snipmate.vim.git'
+" Bundle 'msanders/snipmate.vim.git'
+Bundle 'SirVer/ultisnips'
 Bundle 'kchmck/vim-coffee-script.git'
 Bundle 'Lokaltog/vim-powerline.git'
 Bundle 'tsaleh/vim-matchit.git'
@@ -55,6 +56,8 @@ Bundle 'majutsushi/tagbar'
 Bundle 'vitaly/vim-syntastic-coffee'
 Bundle 'othree/javascript-libraries-syntax.vim'
 Bundle 'Valloric/YouCompleteMe'
+Bundle 'matthewsimo/angular-vim-snippets'
+Bundle 'mattn/zencoding-vim'
 
 filetype plugin indent on
 
