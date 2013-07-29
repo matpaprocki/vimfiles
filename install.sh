@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 if [[ -e $HOME/.vimrc || -e $HOME/.vim ]]; then
   echo "Ooops: ~/.vimrc or ~/.vim already exists. \n\

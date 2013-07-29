@@ -1,5 +1,7 @@
 " GUI Options
-  set guifont=Inconsolata:h24
+  " set guifont=Inconsolata,:h24
+  set guifont=Inconsolata,Lucida\ Console
+
   set guioptions-=T               " Remove GUI toolbar
   set guioptions-=e               " Use text tab bar, not GUI
   set guioptions-=rL              " Remove scrollbars
@@ -116,8 +118,12 @@
   set smartcase
 
 " Use shell in vim (sources rvm)
-  set shell=/bin/sh
+  set shell=/bin/bash
 
 " Set filetypes for unusual files
   au BufNewFile,BufRead *.ejs set filetype=html
   au BufNewFile,BufRead {Capfile,Gemfile,Rakefile,config.ru,.irbrc} set ft=ruby
+
+  let g:used_javascript_libs = 'underscore,angularjs,jquery'
+
+  let g:NERDTreeHijackNetrw=0

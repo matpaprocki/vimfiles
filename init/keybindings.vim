@@ -55,9 +55,12 @@ vmap { [egv
 vmap } ]egv
 
 " Run tests
-map <Leader>t :VroomRunNearestTest<CR>
-map <Leader>T :VroomRunTestFile<CR>
+" map <Leader>t :VroomRunNearestTest<CR>
+" map <Leader>T :VroomRunTestFile<CR>
 
 " Horizontal block movement
 vmap > >gv
 vmap < <gv
+
+" Tagbar
+nnoremap <silent> <F9> :TagbarToggle<CR>
