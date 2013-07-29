@@ -58,6 +58,7 @@ Bundle 'othree/javascript-libraries-syntax.vim'
 Bundle 'Valloric/YouCompleteMe'
 Bundle 'matthewsimo/angular-vim-snippets'
 Bundle 'mattn/zencoding-vim'
+Bundle 'matpaprocki/molokai'
 
 filetype plugin indent on
 

@@ -5,4 +5,6 @@
 "  endif
 
 set background=dark
-silent! colorscheme solarized
+" silent! colorscheme solarized
+silent! colorscheme molokai
+" let g:molokai_original = 1
