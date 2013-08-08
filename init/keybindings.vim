@@ -38,6 +38,7 @@ imap <F1>           <Nop>
 " vmap <F1> :w !pbcopy<CR><CR>
 " nmap <F2> :set paste<CR>:r !pbpaste<CR>:set nopaste<CR>
 " imap <F2> <Esc>:set paste<CR>:r !pbpaste<CR>:set nopaste<CR>
+nmap <F2> :set paste<CR>"*p:set nopaste<CR>
 
 " clear search highlighting
 nnoremap <silent> <C-l> :<C-u>nohlsearch<CR><C-l>
