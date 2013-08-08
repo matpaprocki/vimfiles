@@ -29,7 +29,7 @@ Bundle 'tpope/vim-fugitive.git'
 " Bundle 'tpope/vim-cucumber.git'
 Bundle 'tpope/vim-haml.git'
 " Bundle 'tpope/vim-endwise.git'
-" Bundle 'tpope/vim-surround.git'
+Bundle 'tpope/vim-surround.git'
 Bundle 'scrooloose/nerdtree.git'
 Bundle 'scrooloose/nerdcommenter.git'
 Bundle 'mileszs/ack.vim.git'
@@ -59,6 +59,7 @@ Bundle 'Valloric/YouCompleteMe'
 Bundle 'matthewsimo/angular-vim-snippets'
 Bundle 'mattn/zencoding-vim'
 Bundle 'matpaprocki/molokai'
+Bundle 'jiangmiao/auto-pairs'
 
 filetype plugin indent on
 
