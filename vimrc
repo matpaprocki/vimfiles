@@ -60,7 +60,8 @@ Bundle 'matthewsimo/angular-vim-snippets'
 Bundle 'mattn/zencoding-vim'
 Bundle 'matpaprocki/molokai'
 Bundle 'jiangmiao/auto-pairs'
-
+Bundle 'nelstrom/vim-visual-star-search'
+ 
 filetype plugin indent on
 
 " Source initialization files
