@@ -19,7 +19,7 @@
   set viminfo+=!                 " make sure it can save viminfo
 
   set list                       " Show whitespace
-  set listchars=trail:·
+  set listchars=tab:▸\ ,eol:¬,trail:·
 
 " Visual Cues
   set showmatch                                      " show matching brackets
