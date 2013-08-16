@@ -139,3 +139,7 @@
 
   vmap <leader>c <esc>:'<,'>:CoffeeCompile<CR>
   map <leader>c :CoffeeCompile watch vert<CR>
+
+  " emmett
+  let g:user_emmet_expandabbr_key = '<c-e>'
+  let g:use_emmet_complete_tag = 1
