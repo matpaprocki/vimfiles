@@ -3,6 +3,7 @@
   set guifont=Inconsolata,Lucida\ Console
 
   set columns=220
+  set lines=35
 
   set guioptions-=T               " Remove GUI toolbar
   set guioptions-=e               " Use text tab bar, not GUI
