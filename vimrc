@@ -56,11 +56,12 @@ Bundle 'majutsushi/tagbar'
 Bundle 'vitaly/vim-syntastic-coffee'
 Bundle 'othree/javascript-libraries-syntax.vim'
 Bundle 'Valloric/YouCompleteMe'
-Bundle 'matthewsimo/angular-vim-snippets'
+Bundle 'matpaprocki/angular-vim-snippets'
 Bundle 'mattn/emmet-vim'
 Bundle 'matpaprocki/molokai'
 Bundle 'jiangmiao/auto-pairs'
 Bundle 'nelstrom/vim-visual-star-search'
+Bundle 'embear/vim-localvimrc'
  
 filetype plugin indent on
 
